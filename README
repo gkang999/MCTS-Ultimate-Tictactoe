@@ -1,0 +1,6 @@
+Mcts_modified.py contains the heuristic bot which can be pit against two basic bots (random_bot.py and rollout_bot.py) or 
+mcts_vanilla.py, which is the same as the modified version except without the heuristic algorithm.
+
+Experiment2.txt lists the results between the modified and vanilla versions.
+
+All tests were run through the command prompt console.
