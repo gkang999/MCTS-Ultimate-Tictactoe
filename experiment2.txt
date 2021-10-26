@@ -1,0 +1,16 @@
+Vanilla bot: 100 nodes
+Modified bot: 100 nodes
+Final win counts: {'draw': 4, 1: 45, 2: 51}
+474.99483879999997 seconds
+
+Vanilla bot: 1000 nodes
+Modified bot: 1000 nodes
+Final win counts: {'draw': 2, 1: 44, 2: 54}
+5150.4547573 seconds
+
+Vanilla bot: 2000 nodes
+Modified bot: 2000 nodes
+Final win counts: {'draw': 1, 1: 59, 2: 40}
+9003.6962239 seconds
+
+Modified bot won more games for 100 and 1000 nodes, but started to lose once it hit the 2000 node mark.

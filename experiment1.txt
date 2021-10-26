@@ -1,0 +1,21 @@
+Vanilla bot 1: 100 nodes
+Vanilla bot 2: 500 nodes
+Final win counts: {'draw': 3, 1: 32, 2: 65}
+97.5481247 seconds
+
+Vanilla bot 1: 100 nodes
+Vanilla bot 2: 1000 nodes
+Final win counts: {'draw': 2, 1: 29, 2: 69}
+1802.5969278 seconds
+
+Vanilla bot 1: 100 nodes
+Vanilla bot 2: 1500 nodes
+Final win counts: {'draw': 0, 1: 26, 2: 74}
+2506.4373691 seconds
+
+Vanilla bot 1: 100 nodes
+Vanilla bot 2: 2000 nodes
+Final win counts: {'draw': 3, 1: 13, 2: 84}
+3286.9329632000004 seconds
+
+More nodes led to more wins overall.
